@@ -1,0 +1,2 @@
+# Build-only dependency for the standalone .exe.
+pyinstaller>=6.0
